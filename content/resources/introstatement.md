@@ -5,6 +5,8 @@ description: This resource contains the summary statement of design studio proje
 file: /courses/4-144-architectural-design-level-ii-new-orleans-studio-spring-2006/7492f843d662e4a64845990e27375268_introstatement.pdf
 file_size: 16014
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

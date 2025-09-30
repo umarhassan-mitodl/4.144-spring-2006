@@ -5,6 +5,8 @@ description: This resource contains information on space between horizontals and
 file: /courses/4-144-architectural-design-level-ii-new-orleans-studio-spring-2006/2c68b35e885a883b17a927e07f8341ad_assn4spbet.pdf
 file_size: 11251
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

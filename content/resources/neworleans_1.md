@@ -5,6 +5,8 @@ description: This resource includes information on the work of the semester in a
 file: /courses/4-144-architectural-design-level-ii-new-orleans-studio-spring-2006/a8fadf1aae98b65b295d3c05774abbd6_neworleans_1.pdf
 file_size: 8682474
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

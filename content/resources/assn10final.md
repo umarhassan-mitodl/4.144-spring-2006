@@ -5,6 +5,8 @@ description: This resource contains information on all models, drawings, sketche
 file: /courses/4-144-architectural-design-level-ii-new-orleans-studio-spring-2006/884346e4c060cd9f121e90d9d58377d1_assn10final.pdf
 file_size: 12359
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
